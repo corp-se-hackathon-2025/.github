@@ -1,95 +1,130 @@
-## 🗓️ Overview
+## 🗓️ Overview & Example Project Ideas
 
-Participants are encouraged to leverage GitHub Copilot to build innovative projects closely related to the GitHub ecosystem. Potential project areas include:
+Participants are encouraged to leverage GitHub Copilot to build innovative projects closely related to the GitHub ecosystem. Explore, innovate, and showcase your skills!
 
-- **GitHub App Authentication** for secure access to GitHub.
-- **Webhook or Audit Log Consumption** for tracking repository activities.
-- **REST API Visualizations, Automations, or Integrations** to enhance workflow efficiency.
-- **GitHub Actions** to automate CI/CD processes.
-- **GitHub Copilot MCP Server** or custom **Copilot Extensions** (Client & Server).
-- **Internal Tools** tailored to streamline team processes.
+### 🚧 GitHub App Authentication
+- **Secure GitHub Dashboard:** Authenticate users via GitHub App to display personalized repository metrics or notifications.
 
-Explore, innovate, and showcase your skills!
+### 📡 Webhook or Audit Log Consumption
+- **Real-Time Activity Monitor:** Interactive dashboard showing GitHub repository activities using webhook events.
+- **Audit Alert Bot:** Slack notifications triggered by sensitive GitHub actions.
+
+### 📊 REST API Visualizations, Automations, or Integrations
+- **Repository Health Dashboard:** Visualize repository issues, PRs, and workflow statuses.
+- **Automated Issue Triage:** Auto-label and assign issues using Copilot-powered analysis.
+
+### ⚙️ GitHub Actions
+- **Intelligent Release Notes Generator:** Automate human-readable release notes creation from PR summaries.
+- **Security Scanning Pipeline:** Automatically detect and suggest fixes for vulnerabilities using Copilot.
+
+### 🤖 GitHub Copilot MCP Server or Extensions
+- **Copilot-powered Code Review Assistant:** Enhance pull requests with Copilot-generated suggestions and bug detection.
+
+### 🛠️ Internal Tools
+- **Copilot Knowledge Base:** Auto-generate internal documentation based on queries against your codebase.
+- **Team Activity Tracker:** Internal dashboard integrating GitHub activity with Copilot analytics.
+
+### 🧠 GitHub Copilot Agent Mode
+- **Automated Task Runner:** Intelligent agents to automate developer tasks (dependency updates, refactoring, testing).
+([Learn More](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode))
+
+## 📅 Hackathon Schedule
+
+**Part 1:** Tuesday, April 8, 4:45 – 6:30 PM  
+**Part 2:** Wednesday, April 9, 4:25 – 6:25 PM
+
+- **Project Demos:** Wednesday, April 9, 5:25 – 6:25 PM (final 60 minutes)
+
+You're encouraged to continue working on your projects between sessions.
+
+### ⏳ Suggested Timeline for Efficiency
+
+**Part 1 (April 8)**
+- **First 10 Minutes:** Define your project scope and assign team roles.
+- **Next 90 Minutes:** Build your MVP or core features using Copilot.
+- **Final 5 Minutes:** Document tasks and plan next steps.
+
+**Between Sessions**
+- Refine your MVP, fix bugs, and enhance documentation.
+- Leverage Copilot for rapid improvements.
+
+**Part 2 (April 9)**
+- **First 60 Minutes:** Finalize your project and prepare demos.
+- **Final 60 Minutes:** Project presentations and demonstrations.
 
 ## 🎯 Hackathon Goals
 
-- Explore and showcase the power of Copilot.
-- Innovate freely — customer demo or GitHub solution, your call!
-- Share learnings, ideas, and inspire new customer conversations.
-- Optionally, build something reusable or production-ready.
+- Showcase the power and versatility of Copilot.
+- Innovate with freedom, focusing on customer demos or GitHub solutions.
+- Share insights, ideas, and inspire meaningful conversations.
+- Optionally, create reusable or production-ready solutions.
 
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
 
-- Access to GitHub Copilot (IDE extensions, CLI, Chat, etc.).
-- GitHub repository to host your project (private or public).
-- Familiarity with GitHub features (Actions, Apps, APIs) if participating in the Solution Track.
+- Access to GitHub Copilot (IDE extensions, CLI, Chat, Agent Mode).
+- GitHub repository for your project (private or public).
+- Familiarity with GitHub (Actions, Apps, APIs).
 
 ### 2. Project Repo Setup
 
 - Fork or clone this README template.
-- Rename your repository accordingly.
-- Update the following sections:
+- Rename your repository.
+- Update:
   - Project Name & Description
-  - Getting Started Instructions
-  - Requirements/Tools/Languages
+  - Setup Instructions
+  - Tools/Languages used
 
 ## 👥 Collaboration Tips
 
-Time is limited (**2-3 hours**). Use Copilot to maximize productivity.
+Time is limited (**2-3 hours**). Leverage Copilot effectively!
 
 ### 🟢 Recommended Collaboration Strategies
 
 | Approach                   | Benefits                                                               |
 | -------------------------- | ---------------------------------------------------------------------- |
-| **VS Code Live Share**     | Real-time pair programming, shared debugging, rapid iteration.         |
-| **Divide & Conquer (Git)** | Work in parallel branches; quickly merge via PRs.                      |
-| **Parallel Prototyping**   | Prototype separately; merge best elements.                             |
-| **Prompt/Task Delegation** | Assign roles to manage prompts, code generation, and testing.          |
-| **Clear Roles at Kickoff** | Set roles (Driver, Prompt Engineer, Tester, Doc Writer) to streamline. |
+| **VS Code Live Share**     | Real-time collaboration and debugging.                                 |
+| **Divide & Conquer (Git)** | Parallel development; efficient merging via PRs.                       |
+| **Parallel Prototyping**   | Independent prototypes merged for best outcomes.                       |
+| **Prompt/Task Delegation** | Specialized roles for efficiency (prompting, coding, testing).         |
+| **Clear Roles at Kickoff** | Defined roles (Driver, Prompt Engineer, Tester, Doc Writer).           |
 
-> **Tip:** Allocate your first 5-10 minutes to define collaboration methods clearly.
+> **Tip:** Dedicate first 5-10 minutes to clearly define team strategies.
 
 ## 🛠️ Tools & Ideas for Success
 
-| Tool/Feature       | Ideas                                                     |
-| ------------------ | --------------------------------------------------------- |
-| **Copilot Chat**   | Generate code snippets, automate tests, debugging advice. |
-| **GitHub Actions** | Automate CI/CD, testing, deployment workflows.            |
-| **GitHub Apps**    | Enhance team productivity and workflows.                  |
-| **APIs**           | Build data visualizations, integrations, and dashboards.  |
-
-## ✨ Example Project Ideas
-- **Customer Demo:** Copilot-powered app demonstrating live code generation or feature enhancements.
-- **GitHub Solution:** Automated Action for labeling issues based on AI-generated summaries or sentiment.
-- **Internal Tool:** Dashboard integrating Copilot-generated insights from GitHub API activity.
+| Tool/Feature              | Ideas & Resources                                                     |
+| ------------------------- | -------------------------------------------------------------------- |
+| **Copilot Chat**          | Code snippets, tests, and debugging advice.                           |
+| **Copilot Agent Mode**    | Task completion, automations. ([Learn More](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode)) |
+| **Copilot Workspace**     | Collaborative coding. ([Project](https://githubnext.com/projects/copilot-workspace), [User Manual](https://github.com/githubnext/copilot-workspace-user-manual)) |
+| **Copilot on GitHub.com** | Code review and PR summaries. ([Learn More](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features)) |
+| **Copilot Edits**         | Quick code transformations. ([Learn More](https://code.visualstudio.com/docs/copilot/copilot-edits)) |
+| **GitHub Actions**        | Automation of workflows and CI/CD processes.                          |
+| **GitHub Apps**           | Enhancing productivity and workflows.                                 |
+| **APIs**                  | Integrations and data visualization tools.                            |
 
 ## 📋 Submission Guidelines
 
-1. Push code, docs, and demo materials to your repo.
-2. Clearly update your README with:
+1. Push your code, docs, and demo materials.
+2. Clearly update your README:
    - Project summary
-   - Setup and usage instructions
-   - Screenshots or demo videos (recommended)
-3. Document how Copilot assisted your development (provide specific examples).
-4. Complete the submission form here: **[Insert Form Link]**
+   - Setup and usage
+   - Screenshots/demo videos
+3. Document how Copilot aided your development.
+4. Submit via: **[Insert Form Link]**
 
 ## 🏆 Judging Criteria
 
-Standout projects will be recognized based on:
-
 - **Creativity & Innovation**
-- **Copilot Usage & Integration**
-- **Practicality & Demo-Readiness**
-- **Quality of Documentation & Clarity**
-
+- **Copilot Integration**
+- **Practicality & Readiness**
+- **Quality of Documentation**
 
 ## 💬 Need Help?
 
-Use Copilot for assistance! For additional support:
-- Reach out directly to the hackathon presenter.
-
+Use Copilot! Additional support:
+- Contact the hackathon presenter.
 
 🚀 **Happy Hacking!** 🚀
-
