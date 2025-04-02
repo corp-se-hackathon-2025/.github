@@ -7,4 +7,4 @@ Whether you're crafting a **compelling customer demo** or a **unique GitHub-powe
 
 ### 🎯 **Create something awesome with Copilot**
 
-## [Get Started](https://github.com/corp-se-hackathon-2025/.github/blob/main/README.md#%EF%B8%8F-overview--example-project-ideas)
+### [Get Started](https://github.com/corp-se-hackathon-2025/.github/blob/main/README.md#%EF%B8%8F-overview--example-project-ideas)
