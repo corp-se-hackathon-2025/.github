@@ -2,36 +2,6 @@
 
 Participants are encouraged to leverage GitHub Copilot to build innovative projects closely related to the GitHub ecosystem. Explore, innovate, and showcase your skills!
 
-### 🚧 GitHub App Authentication
-
-- **Secure GitHub Dashboard:** Authenticate users via GitHub App to display personalized repository metrics or notifications.
-
-### 📡 Webhook or Audit Log Consumption
-
-- **Real-Time Activity Monitor:** Interactive dashboard showing GitHub repository activities using webhook events.
-- **Audit Alert Bot:** Slack notifications triggered by sensitive GitHub actions.
-
-### 📊 REST API Visualizations, Automations, or Integrations
-
-- **Repository Health Dashboard:** Visualize repository issues, PRs, and workflow statuses.
-- **Automated Issue Triage:** Auto-label and assign issues using Copilot-powered analysis.
-
-### ⚙️ GitHub Actions
-
-- **Automated Seat Management:** Monitor seat usage, automate notifications for approaching license limits, and suggest seat reassignments.
-- **Billing and Usage Mermaid Visualization:** Visualize billing trends and forecast costs using job summaries.
-- **Rollback Functionality:** Demonstrate rollback functionality
-- **Monorepo demo**: Demonstrate a monorepo setup 
-
-### 🤖 GitHub Copilot MCP Server or Extensions
-
-- **Connect copilot to internal documentation:** Allow copilot to access internal resources for better answers.
-
-### 🛠️ Internal Tools
-
-- **Copilot Knowledge Base:** Auto-generate internal documentation based on queries against your codebase.
-- **Team Activity Tracker:** Internal dashboard integrating GitHub activity with Copilot analytics.
-
 ## 📅 Hackathon Schedule
 
 **Part 1:** Tuesday, April 8, 4:45 – 6:30 PM\
@@ -66,22 +36,45 @@ You're encouraged to continue working on your projects between sessions.
 - Share insights, ideas, and inspire meaningful conversations.
 - Optionally, create reusable or production-ready solutions.
 
+## 🤯 Ideas
+
+### 🚧 GitHub App Authentication
+
+- **Secure GitHub Dashboard:** Authenticate users via GitHub App to display personalized repository metrics or notifications.
+
+### 📡 Webhook or Audit Log Consumption
+
+- **Real-Time Activity Monitor:** Interactive dashboard showing GitHub repository activities using webhook events.
+- **Audit Alert Bot:** Slack notifications triggered by sensitive GitHub actions.
+
+### 📊 REST API Visualizations, Automations, or Integrations
+
+- **Repository Health Dashboard:** Visualize repository issues, PRs, and workflow statuses.
+- **Automated Issue Triage:** Auto-label and assign issues using Copilot-powered analysis.
+
+### ⚙️ GitHub Actions
+
+- **Automated Seat Management:** Monitor seat usage, automate notifications for approaching license limits, and suggest seat reassignments.
+- **Billing and Usage Mermaid Visualization:** Visualize billing trends and forecast costs using job summaries.
+- **Rollback Functionality:** Demonstrate rollback functionality
+- **Monorepo demo**: Demonstrate a monorepo setup 
+
+### 🤖 GitHub Copilot MCP Server or Extensions
+
+- **Connect copilot to internal documentation:** Allow copilot to access internal resources for better answers.
+
+### 🛠️ Internal Tools
+
+- **Copilot Knowledge Base:** Auto-generate internal documentation based on queries against your codebase.
+- **Team Activity Tracker:** Internal dashboard integrating GitHub activity with Copilot analytics.
+
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
 
 - Access to GitHub Copilot (IDE extensions, CLI, Chat, Agent Mode).
-- GitHub repository for your project (private or public).
 - Familiarity with GitHub (Actions, Apps, APIs).
-
-### 2. Project Repo Setup
-
-- Fork or clone this README template.
-- Rename your repository.
-- Update:
-  - Project Name & Description
-  - Setup Instructions
-  - Tools/Languages used
+- GitHub repository for your project (private or public).
 
 ## 👥 Collaboration Tips
 
