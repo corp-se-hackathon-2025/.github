@@ -54,8 +54,8 @@ You’ve only got **2-3 hours**, so working smart as a team is crucial. Copilot 
 | **Prompt/Task Delegation**            | Some focus on writing effective prompts, future feature ideas, or testing tasks, while others implement core features. |
 | **Clear Early Roles**                 | Assign roles right at the start (e.g., "Driver," "Prompt Engineer," "Tester," "Doc Writer") to avoid overlap and confusion. |
 
-### 💡 Tip:
-Decide **how you'll collaborate in the first 5-10 minutes**. A quick huddle upfront will pay off in smoother coding later.
+> [!TIP]
+> Decide **how you'll collaborate in the first 5-10 minutes**. A quick huddle upfront will pay off in smoother coding later.
 
 ---
 
