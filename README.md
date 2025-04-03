@@ -68,6 +68,15 @@ You're encouraged to continue working on your projects between sessions.
 - **Copilot Knowledge Base:** Auto-generate internal documentation based on queries against your codebase.
 - **Team Activity Tracker:** Internal dashboard integrating GitHub activity with Copilot analytics.
 
+### 🐛 Bug Fixing
+
+- Fix existing issues or bugs using Copilot + MCP servers.
+
+### 🌐 MCP Servers
+
+- Solve problems by creating integrations using [MCP servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#model-context-protocol-servers).
+
+
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
