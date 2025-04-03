@@ -1,6 +1,13 @@
 ## 🗓️ Overview & Example Project Ideas
 
-Participants are encouraged to leverage GitHub Copilot to build innovative projects closely related to the GitHub ecosystem. Explore, innovate, and showcase your skills!
+Put yourselves in the shoes of our customers.  For this hackathon, participants are encouraged to leverage GitHub Copilot to try to build innovative projects using tools from the GitHub ecosystem. Explore, innovate, and learn about our customers' experience! 
+
+### Make it about the journey
+This workshop is about using the process of creating an application to learn about our different tools.  Your goal is to learn about our tools, and tell us about what you learned.  It isn't to wind up with a working application by the end of the hackathon - although there's no reason not to try!
+
+As part of this process you should think about the tools you're using and what expectations you have about them.  Do you expect to be able to build a UI in Agent mode?  Or do you expect there's no way it can get you there?  Is Copilot a peer programmer or a pair programmer?
+
+You'll use the excercise of coming up with a project and implementing it as a team as the catalyst for your learning.  And at the end people can present their applications - working or not - and tell us about the lessons they learning using our tools.
 
 ## 📅 Hackathon Schedule
 
@@ -107,14 +114,13 @@ Time is limited (**2-3 hours**). Leverage Copilot effectively!
 
 ## 📋 Submission Guidelines
 
-1. Push your code, docs, and demo materials.
-2. Clearly update your README:
-   - Project summary
-   - Setup and usage
-   - Screenshots/demo videos
-3. Document how Copilot aided your development.
-4. Submit via: **[Insert Form Link]**
-
+1. Create your repo in the `corp-se-hackathon-2025` organization
+2. Work with your team to answer the following questions
+   - What tools did you end up using?
+   - What did you originally expect to accomplish with the tools?
+   - Were you able to accomplish it?
+   - What lessons did you learn about the tools?
+   
 ## 🏆 Judging Criteria
 
 - **Creativity & Innovation**
