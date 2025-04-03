@@ -7,7 +7,7 @@ This workshop is about using the process of creating an application to learn abo
 
 As part of this process you should think about the tools you're using and what expectations you have about them.  Do you expect to be able to build a UI in Agent mode?  Or do you expect there's no way it can get you there?  Is Copilot a peer programmer or a pair programmer?
 
-You'll use the excercise of coming up with a project and implementing it as a team as the catalyst for your learning.  And at the end people can present their applications - working or not - and tell us about the lessons they learning using our tools.
+You'll use the excercise of coming up with a project and implementing it as a team as the catalyst for your learning.  And at the end people can present their applications - working or not - and tell us about the lessons they learned using our tools.
 
 ## 📅 Hackathon Schedule
 
