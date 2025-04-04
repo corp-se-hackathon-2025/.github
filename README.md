@@ -81,7 +81,7 @@ You're encouraged to continue working on your projects between sessions.
 
 ### 🌐 MCP Servers
 
-- Solve problems by creating integrations using [MCP servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#model-context-protocol-servers).
+- Solve problems by creating integrations using [MCP servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#model-context-protocol-servers). [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers).
 
 
 ## 🚀 Getting Started
