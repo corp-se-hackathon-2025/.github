@@ -129,13 +129,6 @@ Time is limited (**2-3 hours**). Leverage Copilot effectively!
    - What did you originally expect to accomplish with the tools?
    - Were you able to accomplish it?
    - What lessons did you learn about the tools?
-   
-## 🏆 Judging Criteria
-
-- **Creativity & Innovation**
-- **Copilot Integration**
-- **Practicality & Readiness**
-- **Quality of Documentation**
 
 ## 💬 Need Help?
 
